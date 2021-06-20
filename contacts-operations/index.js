@@ -16,3 +16,4 @@ module.exports = {
 //     phone: '(093) 008-23-66'
 // }
 
+console.log(getAll());
